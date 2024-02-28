@@ -1,14 +1,16 @@
 ### Olá, João Gabriel aqui 👋
 
-- 🪪 19 anos
-- 👨🏼‍🎓 Técnico de Informática
-- 📖 Análise e Desenvolvimento de Sistemas
-- 🧑🏼‍💻 Desenvolvedor Mobile (Ionic)
-
 <div>
   <a href="www.linkedin.com/in/joaogabrielpereiradasilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:pereirajoaogsilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><br>
+
+- 🪪 19 anos
+- 👨🏼‍🎓 Técnico de Informática
+- 📖 Análise e Desenvolvimento de Sistemas
+- 🧑🏼‍💻 Desenvolvedor Mobile Jr. (Ionic)
+
+
 
 ##
 
