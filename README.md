@@ -8,7 +8,7 @@
 - 🪪 19 anos
 - 👨🏼‍🎓 Técnico de Informática
 - 📖 Análise e Desenvolvimento de Sistemas
-- 🧑🏼‍💻 Desenvolvedor Mobile Jr. (Ionic)
+- 🧑🏼‍💻 Desenvolvedor Mobile (Ionic)
 
 ##
 
