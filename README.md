@@ -5,7 +5,7 @@
   <a href = "mailto:pereirajoaogsilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><br>
 
-- 🪪 19 anos
+- 🪪 20 anos
 - 👨🏼‍🎓 Técnico de Informática
 - 📖 Análise e Desenvolvimento de Sistemas
 - 🧑🏼‍💻 Desenvolvedor Mobile (Ionic)
